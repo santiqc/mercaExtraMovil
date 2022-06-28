@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5202100204",
+    "project_id": "mercaextra-9844f",
+    "storage_bucket": "mercaextra-9844f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5202100204:android:739d5d879b30f61d858ac9",
+        "android_client_info": {
+          "package_name": "com.tatiana.mercaextra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5202100204-b5juhou1frk4rsirri9oh1lokamuoshe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh2z6GLVpKm0KmFggfDG5LNXV-0YRBNJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5202100204-b5juhou1frk4rsirri9oh1lokamuoshe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
